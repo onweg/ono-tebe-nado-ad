@@ -1,1 +1,1 @@
-https://github.com/PavelKirushev/ono-tebe-nado-ad
+https://github.com/onweg/ono-tebe-nado-ad
